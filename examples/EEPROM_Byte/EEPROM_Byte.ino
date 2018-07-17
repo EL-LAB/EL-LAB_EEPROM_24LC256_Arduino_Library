@@ -12,7 +12,7 @@
     Modified: -
     Author: -
 
-    URL: 
+    URL: https://github.com/EL-LAB/EL-LAB_EEPROM_24LC256_Arduino_Library
 */
 
 #include "eeprom.h"
