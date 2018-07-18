@@ -2,8 +2,8 @@
 This library allows writing and reading data to the EEPROM memory 24LC256 using the I2C interface.
 
 There are additional information about the library and its uses in the following sections:
-- [Arduino Examples](https://github.com/EL-LAB/EL-LAB_Battery_Board_Arduino_Library#arduino-examples)
-- [Library Functions](https://github.com/EL-LAB/EL-LAB_Battery_Board_Arduino_Library#library-functions)
+- [Arduino Examples](https://github.com/EL-LAB/EL-LAB_EEPROM_24LC256_Arduino_Library#arduino-examples)
+- [Library Functions](https://github.com/EL-LAB/EL-LAB_EEPROM_24LC256_Arduino_Library#library-functions)
 
 ## Arduino Examples
 #### EEPROM_Byte
