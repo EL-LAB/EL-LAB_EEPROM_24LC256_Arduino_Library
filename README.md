@@ -8,11 +8,11 @@ There is additional information about the library and its uses in the following 
 ## Arduino Examples
 #### [EEPROM_Byte](/examples/EEPROM_Byte/EEPROM_Byte.ino)
 This example shows how to write and read bytes in the EEPROM memory. The code will read, write and erase data to see how it changes in memory. The number of bytes to read, write and erase can be defined by the user.
-#### [EEPROM_Capacity](/examples/EEPROM_Byte/EEPROM_Capacity.ino)
+#### [EEPROM_Capacity](/examples/EEPROM_Capacity/EEPROM_Capacity.ino)
 This example reads the entire memory and prints the current free space in memory.
-#### [EEPROM_Erase](/examples/EEPROM_Byte/EEPROM_Erase.ino)
+#### [EEPROM_Erase](/examples/EEPROM_Erase/EEPROM_Erase.ino)
 This example erases the entire memory. It writes `0xFF` to free the memory location. The write process is done only on those locations with data (a value different than `0xFF`).
-#### [EEPROM_String](/examples/EEPROM_Byte/EEPROM_String.ino)
+#### [EEPROM_String](/examples/EEPROM_String/EEPROM_String.ino)
 This example writes a string in memory. Then, the given string is read from memory. The string to write/read cannot be more than 30 bytes. This limitation relies on the I2C buffer size used by the `Wire.h` Arduino library.
 
 ## Library Functions
